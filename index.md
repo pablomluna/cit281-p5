@@ -1,30 +1,32 @@
-![Image](https://images.unsplash.com/photo-1585854142856-39397c7d3704?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80)
+![Image](https://images.unsplash.com/photo-1585644198914-0ac3616037c3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
-# Lab Goals:
+# Project elements:
 
-- Download and install Postman
+- Create a Monster Game program using classes
+- Create monsters with initial life values, and minimum life values for the monster to be alive
+- Each monster's life will be drained by a random amount, and the game will continue until all of the monsters have died
+- Game will include a delay before each life drain
 
-## Lab Parts: 
+## Learning Objectives: 
 
-- Create a CIT 281 collection and folders
-- Create a Node.js and fastify server application with GET and respond with JSON
-- Add array of students object
-- Use Postman to test server GET routes
-- Add POST handling to server application and respond with JSON
-- Use Postman and POST request
+- Gain experience working with classes, including class constructors and methods
+- Gain experience interpreting existing code to design a new class, including constructor and methods
+- Gain more experience working with code modules
+- Gain experience executing and debugging Node.js code using VSCode, including module breakpoints
+- Gain more experience working with Array map() and forEach() methods
+- Gain experience working with the concept of a gaming loop
+- Gain more experience working with objects and arrays
 
+### Project Deliverables
 
+1. (0) p5.js
+2. (5) p5-monster-game.js
+3. (15) p5-monster.js
 
-### Lab Deliverables
-1. fastify-server.js
-2. package.json
-3. AllStudents.png
-4. SingleStudent.png
-5. Unmatched.png
-6. StudentPost.png
 
 
 ### Contact
 
 pmanriqu@uoregon.edu
+
 
